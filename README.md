@@ -1,2 +1,3 @@
-#My Personal Site
-Personal site using HTML and CSS only.
+# My Personal Site
+
+Personal site using HTML and CSS.
